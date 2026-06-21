@@ -1,0 +1,58 @@
+Savani Bhimellu
+
++91 8446071057 | bhimellu.savani@gmail.com | linkedin.com/in/savanibhimellu | github.com/Savani888
+Education
+Vishwakarma University CGPA: 8.09 2023 – 2027
+Bachelor of Technology (BTech) in Artificial Intelligence and Machine Learning
+Experience
+Technical Manager Intern 1 Month
+Skyflo
+• Triaged and prioritized GitHub issues across the open source codebase, coordinating contributor workflows and ensuring PRs
+met quality standards before escalation to the founder.
+• Conducted structured ecosystem analysis across Kubernetes, DevOps, and AI Agent domains, translating engineer pain
+points into actionable technical positioning insights.
+• Drove documentation strategy by producing architecture diagrams and improving README clarity, reducing contributor
+onboarding friction.
+• Collaborated directly with the founder on sprint priorities and product roadmap decisions, bridging technical execution with
+strategic direction.
+Projects
+TravelEval: Auditing Reliability, Bias & Trust in Tourism LLMs | LLM Evaluation, NLP, Statistics
+• Built an end-to-end evaluation framework to measure hallucinations, bias, and real-time accuracy across LLMs, analyzing
+200–300+ queries with evidence-backed validation.
+• Designed bias detection pipeline for destination recommendations, improving visibility into geographic skew and diversity
+gaps by quantifying exposure across regions.
+• Conducted user trust study with 80–150 participants, generating statistically significant insights (t-tests/ANOVA) on
+transparency and decision confidence in AI travel assistants.
+AI Voice Agent & Mobile App for Insurance Collections | Twilio, Dialogflow, Google Cloud STT/TTS
+• Built automated voice bot using Twilio and Dialogflow, reducing manual follow-ups by 40%+.
+• Enabled real-time intent detection & interruption handling with Google Cloud STT/TTS, improving engagement by 30%.
+• Developed mobile app for tracking, escalation, and fraud flagging, boosting collection efficiency by 25%.
+RAG-Based Document Q&A System | Python, LangChain, FAISS, Gemini, Streamlit
+• Built a Retrieval-Augmented Generation (RAG) pipeline enabling semantic search and question answering over large
+document corpora using LangChain and FAISS vector store.
+• Integrated Gemini as the generative backbone with custom prompt templates, achieving 85%+ answer relevance on
+domain-specific queries.
+• Deployed an interactive Streamlit web interface for real-time document ingestion, chunking, embedding, and query
+resolution.
+Arduino Based Obstacle Avoiding Robot | Arduino, GPS, Embedded Systems 2023
+• Built an Arduino-based obstacle avoiding robot with crash detection and GPS system, winning 1st Prize at the Capstone
+Project showcase.
+Technical Skills
+Languages: Python, JavaScript, TypeScript, SQL, C
+Web & Backend: React, Next.js, Node.js, FastAPI, NestJS, Flask, Express, Tailwind CSS
+AI/ML: PyTorch, LangChain, LangGraph, LlamaIndex, Transformers, vLLM, PEFT (LoRA), spaCy, OpenCV, MLflow
+Databases: PostgreSQL, MongoDB, Redis, Pinecone, Neo4j
+DevOps & Tools: Kubernetes, Docker, Git, Linux
+Publications
+Multidisciplinary Emerging Trends in Engineering and Technology August 1, 2024
+ICMETET 2024 – International Conference on Multidisciplinary Emerging Trends in Engineering and Technology
+ISBM College of Engineering, Pune | Hybrid Mode (Online + Offline)
+e-ISBN: 978-81-970159-5-3 | DOI: 10.17492/jpi.ISBM.082401
+Editors: Dr. Pankaj Kumar Srivastava, Dr. M. P. Yadav, Dr. Vilas R. Joshi
+View Publication
+Achievements & Certifications
+1st Prize at Arduino Based Obstacle Avoiding Robot with Crash Detection and GPS – Capstone Project (2023).
+Google – Generative AI Study Jams (2025).
+Deloitte Australia – Cyber, Data Analytics & Technology Job Simulations (Forage, 2025).
+HackerRank – Python, SQL & Problem Solving Certifications (2025).
+Coursera – .NET, C# & Introduction to Software Engineering (2025).
